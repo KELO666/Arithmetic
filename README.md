@@ -1,5 +1,12 @@
-9.18 设计+分工+思路
-建好包、类和Main类
-
-# Arithmetic
+# Arithmetic #
 自动生成四则运算题目
+
+## 使用 ##
+1.-n num
+	题目数量
+2.-r scope
+	数值范围
+3.-e exercisesFile
+	练习文档
+4.-a answersFile
+	答案文档
